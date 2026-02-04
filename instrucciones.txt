@@ -1,0 +1,6 @@
+cada uno de nosotros debe elegir un documento HTML distinto y trabajar en el para hacerlo visualmente más bonito. Se tienen que respetar estos mínimos:
+1-El documento no puede dejar de ser responsivo en ningún momento.
+2-La rama main no debe tocarse hasta que todos tengan su vista completamente terminada.
+3-Cada uno deberá crear su propia rama y trabajar en ella.
+4-No puedes romper la estética visual del proyecto conjunto, tu vista no puede desentonar con los estilos del sitio.
+5-El objetivo final es intentar crear conflictos en la hoja de estilos subiendo poco a poco cada uno los suyos pero no cuando le dé la gana, seguiremos un orden para que no sea una locura tampoco.
