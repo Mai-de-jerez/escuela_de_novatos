@@ -67,10 +67,12 @@ footer{
   color:var(--muted);
   font-size:.9rem;
 }
+
 @media(max-width:640px){
   main{padding:2rem 1rem}
 }
 
+/*--estilos para 25.3ivan--*/
 /*--estilos Mai--*/
 
 .mai-style{
