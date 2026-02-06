@@ -70,3 +70,10 @@ footer{
 @media(max-width:640px){
   main{padding:2rem 1rem}
 }
+
+/*--estilos Mai--*/
+
+.mai-style{
+  color:red;
+  font-weight: 600;
+}
